@@ -12,16 +12,18 @@ Proyek ini dirancang untuk memenuhi seluruh ketentuan UAS Python:
 
 ## 🚀 Cara Menjalankan Proyek
 1. Clone atau Download Project
-*Clone repository ini*
-   '''bash
-   git clone https://github.com/USERNAME/fashion_catalog.git
-   cd fashion_catalog
-   '''
+   **Clone repository ini**
+   ```bash
+   https://github.com/putri09andriyani-alt/UAS-PYTHON.git
+   cd UAS-PYTHON
+   ```
 
 
 3. Install Virtual Environment (Opsional)
     bash
+    ```bash
     python -m venv venv
+    ```
 ## Aktifkan virtual environment:
 Windows 
     venv\Scripts\activate
