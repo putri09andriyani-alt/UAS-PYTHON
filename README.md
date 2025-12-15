@@ -58,12 +58,18 @@ Aplikasi berjalan dalam mode terminal/command prompt.
 
 
 ## Screenshot Perulangan dan Percabangan 
-<img src="img/percabangan perulangan.png" width="400">
+| Screenshot | 
+|-----------|
+| <img src="img/percabangan perulangan.png" width="400">|
 
 
 ## Screenshot Modul Package
-<img src="img/modules.png" width="400">
-<img src="img/package.png" width="400"> 
+| Screenshot | Screenshot |
+|-----------|------------|
+| <img src="img/modules.png" width="400"> |
+| <img src="img/package.png" width="400"> |
 
 ## Screenshot Output
-<img src="img/output.png" width="400"> 
+| Screenshot | 
+|-----------|
+| <img src="img/output.png" width="400"> |
