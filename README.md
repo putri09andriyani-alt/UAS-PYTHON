@@ -44,8 +44,11 @@ Aplikasi berjalan dalam mode terminal/command prompt.
 
 
 ## Screenshot Struktur Database dan isi Tabel database
-<img src="img/db.png" width="400">
-<img src="img/tabeldb.png" width="400">
+|         Screenshot Struktur Database dan isi Tabel database                          |
+|------------------------------------|-----------------------------------------|
+| <img src="img/db.png" width="400"> | <img src="img/tabeldb.png" width="400"> |
+
+
 
 
 ## Screenshot OOP 
