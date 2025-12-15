@@ -51,8 +51,10 @@ Aplikasi berjalan dalam mode terminal/command prompt.
 
 
 
-## Screenshot OOP 
-<img src="img/oop.png" width="400">
+## Screenshot OOP
+| Screenshot | 
+|-----------|
+| <img src="img/oop.png" width="400"> |
 
 
 ## Screenshot Perulangan dan Percabangan 
