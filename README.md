@@ -26,14 +26,19 @@ Proyek ini dirancang untuk memenuhi seluruh ketentuan UAS Python:
     ```
 ## Aktifkan virtual environment:
 Windows 
+```bash
     venv\Scripts\activate
+```
 Mac / Linux
+```bash
     source venv/bin/activate
-
+```
    
 3. Jalankan Program
       bash
+   ```bash
     python main.py
+   ```
    
 Aplikasi berjalan dalam mode terminal/command prompt.
 
