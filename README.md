@@ -1,4 +1,4 @@
-## 📚 Catalog Fashion System (Python + SQLite)
+## 🛍️ Catalog Fashion System (Python + SQLite)
 
 Sistem Manajemen Katalog Fashion berbasis Python, menggunakan SQLite sebagai database dan struktur program modular.
 Proyek ini dirancang untuk memenuhi seluruh ketentuan UAS Python:
