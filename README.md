@@ -66,8 +66,7 @@ Aplikasi berjalan dalam mode terminal/command prompt.
 ## Screenshot Modul Package
 | Screenshot | Screenshot |
 |-----------|------------|
-| <img src="img/modules.png" width="400"> |
-| <img src="img/package.png" width="400"> |
+| <img src="img/modules.png" width="400"> | <img src="img/package.png" width="400"> |
 
 ## Screenshot Output
 | Screenshot | 
